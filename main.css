@@ -13,6 +13,8 @@ input{
     margin-right: auto;
     padding: 10px;
     margin-bottom: 10px;
+    border-radius: 25px;
+    border: solid;
 }
 div{
     text-align: center; 
